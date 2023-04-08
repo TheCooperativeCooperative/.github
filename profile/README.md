@@ -1,6 +1,6 @@
 # The Cooperative Cooperative
 
-[![Worker Coop Resources](https://img.youtube.com/vi/LFyl0zz2yqs/0.jpg)](https://www.youtube.com/watch?v=LFyl0zz2yqs)
+<center>[![Worker Coop Resources](https://img.youtube.com/vi/LFyl0zz2yqs/0.jpg)](https://www.youtube.com/watch?v=LFyl0zz2yqs)</center>
 
 [![Worker Coop Resources](https://img.youtube.com/vi/pKN-gxmVRUc/0.jpg)](https://www.youtube.com/watch?v=pKN-gxmVRUc)
 
